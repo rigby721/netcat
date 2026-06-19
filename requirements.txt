@@ -1,0 +1,16 @@
+# ---------------------------------------------------------
+# Custom Netcat Clone - Requirements
+# ---------------------------------------------------------
+# This tool is built entirely using Python 3 native standard libraries.
+# No external third-party dependencies are required to run this script.
+#
+# Standard modules utilized:
+# - socket (Network communication)
+# - subprocess (Command execution)
+# - threading (Concurrent client handling)
+# - argparse (CLI argument parsing)
+# - platform (OS detection)
+#
+# In case of future tool expansions, install updates via:
+# pip install -r requirements.txt
+# ---------------------------------------------------------

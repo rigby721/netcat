@@ -21,4 +21,7 @@ The tool can be executed under two modes: Listener (Server) and Client (Initiato
 To set up a listener that waits for a connection and executes commands upon access:
 
 `bash
+git clone https://github.com/rigby721/netcat.git
+cd netcat
+pip install -r requirments.txt
 python3 netcat.py -l -p 5555 -c -t 0.0.0.0

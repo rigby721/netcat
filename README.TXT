@@ -6,6 +6,7 @@ A lightweight, multi-platform Netcat clone written in Python 3. This tool functi
 
 ## ✨ Features
 
+
 * Multi-Platform Support: Dynamically detects the host OS (Windows/Linux) and spawns the appropriate shell (cmd.exe or /bin/sh).
 * Interactive Reverse Shell: Provides a stable remote command execution environment with a custom prompt (BHP: #>).
 * Robust Exception Handling: Equipped with structural blocks to handle socket errors, improper data types, and byte-to-string conversions gracefully.
